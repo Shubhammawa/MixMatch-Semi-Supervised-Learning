@@ -1,0 +1,78 @@
+Hyperparameters:
+
+NUM_LABELLED = 1000
+LEARNING_RATE = 0.0001
+NUM_EPOCHS = 15
+BATCH_SIZE = 32
+T = 0.5
+ALPHA = 0.75
+K = 4
+
+Epoch: 000/015 | Batch 0000/0280 | Cost: 22.5989 | Labelled loss: 22.5799 | Unlabelled loss: 19.0000
+Epoch: 000/015 | Batch 0050/0280 | Cost: 4.7713 | Labelled loss: 4.1083 | Unlabelled loss: 13.0000
+Epoch: 000/015 | Batch 0100/0280 | Cost: 4.4726 | Labelled loss: 3.1596 | Unlabelled loss: 13.0000
+Epoch: 000/015 | Batch 0150/0280 | Cost: 1.5524 | Labelled loss: 0.0424 | Unlabelled loss: 10.0000
+Epoch: 000/015 | Batch 0200/0280 | Cost: 4.5765 | Labelled loss: 1.3605 | Unlabelled loss: 16.0000
+Epoch: 000/015 | Batch 0250/0280 | Cost: 3.8269 | Labelled loss: 0.3129 | Unlabelled loss: 14.0000
+Time elapsed: 4.60 min
+Accuracy: 0.8754127889522666
+F1_score: 0.8567483603727994
+Epoch: 001/015 | Batch 0000/0280 | Cost: 5.0804 | Labelled loss: 1.6964 | Unlabelled loss: 12.0000
+Epoch: 001/015 | Batch 0050/0280 | Cost: 5.5730 | Labelled loss: 0.2610 | Unlabelled loss: 16.0000
+Epoch: 001/015 | Batch 0100/0280 | Cost: 8.3998 | Labelled loss: 0.7598 | Unlabelled loss: 20.0000
+Epoch: 001/015 | Batch 0150/0280 | Cost: 8.2784 | Labelled loss: 2.6624 | Unlabelled loss: 13.0000
+Epoch: 001/015 | Batch 0200/0280 | Cost: 8.2313 | Labelled loss: 0.0373 | Unlabelled loss: 17.0000
+Epoch: 001/015 | Batch 0250/0280 | Cost: 9.1597 | Labelled loss: 0.1157 | Unlabelled loss: 17.0000
+Time elapsed: 9.32 min
+Accuracy: 0.7994596217352147
+F1_score: 0.8117249154453213
+Epoch: 002/015 | Batch 0000/0280 | Cost: 9.0269 | Labelled loss: 0.0189 | Unlabelled loss: 16.0000
+Epoch: 002/015 | Batch 0050/0280 | Cost: 6.7481 | Labelled loss: 0.0051 | Unlabelled loss: 11.0000
+Epoch: 002/015 | Batch 0100/0280 | Cost: 6.6858 | Labelled loss: 0.0558 | Unlabelled loss: 10.0000
+Epoch: 002/015 | Batch 0150/0280 | Cost: 10.0186 | Labelled loss: 0.0366 | Unlabelled loss: 14.0000
+Epoch: 002/015 | Batch 0200/0280 | Cost: 12.2844 | Labelled loss: 0.0764 | Unlabelled loss: 16.0000
+Epoch: 002/015 | Batch 0250/0280 | Cost: 10.6102 | Labelled loss: 0.0412 | Unlabelled loss: 13.0000
+Time elapsed: 14.04 min
+Accuracy: 0.881416991894326
+F1_score: 0.8594806118818926
+Epoch: 003/015 | Batch 0000/0280 | Cost: 12.8615 | Labelled loss: 0.2015 | Unlabelled loss: 15.0000
+Epoch: 003/015 | Batch 0050/0280 | Cost: 9.0810 | Labelled loss: 1.0350 | Unlabelled loss: 9.0000
+Epoch: 003/015 | Batch 0100/0280 | Cost: 4.7711 | Labelled loss: 0.0511 | Unlabelled loss: 5.0000
+Epoch: 003/015 | Batch 0150/0280 | Cost: 10.0992 | Labelled loss: 0.1592 | Unlabelled loss: 10.0000
+Epoch: 003/015 | Batch 0200/0280 | Cost: 9.1236 | Labelled loss: 0.1236 | Unlabelled loss: 9.0000
+Epoch: 003/015 | Batch 0250/0280 | Cost: 13.2172 | Labelled loss: 0.2172 | Unlabelled loss: 13.0000
+Time elapsed: 18.73 min
+Accuracy: 0.8784148904232963
+F1_score: 0.8611587247171753
+Epoch: 004/015 | Batch 0000/0280 | Cost: 14.0614 | Labelled loss: 0.0614 | Unlabelled loss: 14.0000
+Epoch: 004/015 | Batch 0050/0280 | Cost: 16.0118 | Labelled loss: 0.0118 | Unlabelled loss: 16.0000
+Epoch: 004/015 | Batch 0100/0280 | Cost: 17.0087 | Labelled loss: 0.0087 | Unlabelled loss: 17.0000
+Epoch: 004/015 | Batch 0150/0280 | Cost: 15.2234 | Labelled loss: 0.2234 | Unlabelled loss: 15.0000
+Epoch: 004/015 | Batch 0200/0280 | Cost: 12.0050 | Labelled loss: 0.0050 | Unlabelled loss: 12.0000
+Epoch: 004/015 | Batch 0250/0280 | Cost: 9.5044 | Labelled loss: 0.5044 | Unlabelled loss: 9.0000
+Time elapsed: 23.42 min
+Accuracy: 0.8742119483638547
+F1_score: 0.8636511552229093
+Epoch: 005/015 | Batch 0000/0280 | Cost: 12.4841 | Labelled loss: 0.4841 | Unlabelled loss: 12.0000
+Epoch: 005/015 | Batch 0050/0280 | Cost: 9.5051 | Labelled loss: 2.5051 | Unlabelled loss: 7.0000
+Epoch: 005/015 | Batch 0100/0280 | Cost: 8.5642 | Labelled loss: 0.5642 | Unlabelled loss: 8.0000
+Epoch: 005/015 | Batch 0150/0280 | Cost: 14.0619 | Labelled loss: 0.0619 | Unlabelled loss: 14.0000
+Epoch: 005/015 | Batch 0200/0280 | Cost: 15.0102 | Labelled loss: 0.0102 | Unlabelled loss: 15.0000
+Epoch: 005/015 | Batch 0250/0280 | Cost: 11.0097 | Labelled loss: 0.0097 | Unlabelled loss: 11.0000
+Time elapsed: 28.11 min
+Accuracy: 0.8859201441008706
+F1_score: 0.8669467787114846
+Epoch: 006/015 | Batch 0000/0280 | Cost: 11.0100 | Labelled loss: 0.0100 | Unlabelled loss: 11.0000
+Epoch: 006/015 | Batch 0050/0280 | Cost: 10.0010 | Labelled loss: 0.0010 | Unlabelled loss: 10.0000
+Epoch: 006/015 | Batch 0100/0280 | Cost: 13.0018 | Labelled loss: 0.0018 | Unlabelled loss: 13.0000
+Epoch: 006/015 | Batch 0150/0280 | Cost: 9.0022 | Labelled loss: 0.0022 | Unlabelled loss: 9.0000
+Epoch: 006/015 | Batch 0200/0280 | Cost: 13.0242 | Labelled loss: 0.0242 | Unlabelled loss: 13.0000
+Epoch: 006/015 | Batch 0250/0280 | Cost: 12.3699 | Labelled loss: 0.3699 | Unlabelled loss: 12.0000
+Time elapsed: 32.80 min
+Accuracy: 0.8889222455719004
+F1_score: 0.8744059742023081
+Epoch: 007/015 | Batch 0000/0280 | Cost: 5.0189 | Labelled loss: 0.0189 | Unlabelled loss: 5.0000
+Epoch: 007/015 | Batch 0050/0280 | Cost: 12.1298 | Labelled loss: 0.1298 | Unlabelled loss: 12.0000
+Epoch: 007/015 | Batch 0100/0280 | Cost: 12.0028 | Labelled loss: 0.0028 | Unlabelled loss: 12.0000
+Epoch: 007/015 | Batch 0150/0280 | Cost: 9.0730 | Labelled loss: 0.0730 | Unlabelled loss: 9.0000
+Epoch: 007/015 | Batch 0200/0280 | Cost: 8.0016 | Labelled loss: 0.0016 | Unlabelled loss: 8.0000
